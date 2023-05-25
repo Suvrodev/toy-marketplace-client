@@ -1,0 +1,14 @@
+.yes{
+    visibility: visible;
+}
+.no{
+    visibility: hidden;
+}
+.webName{
+    background: linear-gradient(to right, #fe283a, #d6be08);
+    background-clip: text;
+    /* -webkit-background-clip: text; */
+    color: transparent;
+    /* -webkit-text-fill-color: transparent; */
+    /* text-fill-color: transparent; */
+}

@@ -1,0 +1,82 @@
+[
+      {
+        "id": 1,
+        "image_url": "https://img.freepik.com/free-photo/shot-cute-baby-girl-looking-camera_329181-19580.jpg?w=2000",
+        "baby_name": "Sophia",
+        "message": "Your toy store offers an amazing variety of toys that cater to children of all ages.",
+        "rating": 4.5,
+        "age": 5
+      },
+      {
+        "id": 2,
+        "image_url": "https://thumbs.dreamstime.com/b/cute-baby-13422650.jpg",
+        "baby_name": "Noah",
+        "message": "The friendly and knowledgeable staff at your toy store made our shopping experience enjoyable and stress-free",
+        "rating": 4.2,
+        "age": 6
+      },
+      {
+        "id": 3,
+        "image_url": "https://e0.pxfuel.com/wallpapers/747/277/desktop-wallpaper-cute-baby-girl-kids-cute-baby-boy-cute-baby-girl-baby-girl-little-kids.jpg",
+        "baby_name": "Emma",
+        "message": "I appreciate the excellent quality of the toys I purchased from your store; they have provided hours of fun for my children.",
+        "rating": 4.7,
+        "age": 7
+      },
+      {
+        "id": 4,
+        "image_url": "https://wallpaperaccess.com/full/5715141.jpg",
+        "baby_name": "Liam",
+        "message": "our toy store's organized layout and clear signage made it easy to find the perfect toys for my kids.",
+        "rating": 4.4,
+        "age": 4
+      },
+      {
+        "id": 5,
+        "image_url": "https://i.pinimg.com/474x/3f/b2/79/3fb27963563e0411ef7b45a3da5046f0.jpg",
+        "baby_name": "Olivia",
+        "message": "The prices at your toy store are reasonable, and I always feel like I'm getting great value for my money.",
+        "rating": 4.6,
+        "age": 5
+      },
+      {
+        "id": 6,
+        "image_url": "https://cdn.wallpapersafari.com/38/26/dMZROT.jpg",
+        "baby_name": "Aiden",
+        "message": "Thank you for providing a safe and clean environment for families to explore and enjoy the magic of toys.",
+        "rating": 4.3,
+        "age": 6
+      },
+      {
+        "id": 7,
+        "image_url": "https://media.istockphoto.com/id/1172643701/photo/oops-little-girl-laughing.jpg?s=612x612&w=0&k=20&c=HeDjvrH-rbJOMGuJW20QixtmGe9xZc4nTf-V411WjBo=",
+        "baby_name": "Ava",
+        "message": "The creative and unique selection of toys at your store sets it apart from other toy retailers",
+        "rating": 4.8,
+        "age": 6
+      },
+      {
+        "id": 8,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1WvwT3VLkMqaJB0OYhvUAioHnGdgqRsxjEg2sSqCGWyRp-Uf0dqg953nyUCZWDs-MuQ&usqp=CAU",
+        "baby_name": "Isabella",
+        "message": "I love the convenience of shopping at your toy store, with its wide range of online options and efficient delivery service.",
+        "rating": 4.7,
+        "age": 4
+      },
+      {
+        "id": 9,
+        "image_url": "https://media.istockphoto.com/id/1160659517/photo/baby-girl-in-the-nature.jpg?s=612x612&w=is&k=20&c=uIVUzEHDIzgZ-evhSClOkCNyN1ensm1L0qqty7VQoAo=",
+        "baby_name": "Mason",
+        "message": "The gift wrapping service at your toy store is top-notch and adds an extra special touch to any occasion.",
+        "rating": 4.4,
+        "age": 6
+      },
+      {
+        "id": 10,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLI6NEjF7rtDbJlhkIY4H0Dm6ICPhUieQRFg&usqp=CAU",
+        "baby_name": "Mia",
+        "message": "Your toy store's commitment to promoting educational toys and games is commendable, fostering both learning and fun for children",
+        "rating": 4.6,
+        "age": 5
+      }
+]
